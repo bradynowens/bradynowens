@@ -17,3 +17,5 @@
 * Catacomb with 5x5, 10x10 or 6x6 is created, depending on the number you chose
 * Your hero spawns in the top right, (0,0), and as you navigate to the bottom right, (4,4), you might encounter monsters to fight.
 * The ultimate goal is to make it to the exit of the catacomb.
+
+I am unsure what this semester will entail in terms of projects. 
